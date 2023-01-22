@@ -1,3 +1,4 @@
-# Alghoritmania
+# Kata
 
-## Repository with solved tasks mainly from the [CodeWars](https://www.codewars.com/dashboard)
+## Just having fun here solving algorithmic tasks. 
+
